@@ -1,0 +1,3 @@
+[28-Jan-2026 06:46:12 UTC] PHP Warning:  Undefined variable $name in C:\laragon\www\PHP-upgrade\index.php on line 8
+[28-Jan-2026 08:10:51 UTC] PHP Warning:  Undefined variable $n1 in C:\laragon\www\PHP-upgrade\error.php on line 3
+[28-Jan-2026 08:10:51 UTC] Error Processing Request
